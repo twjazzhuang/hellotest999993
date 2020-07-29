@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "BX7CF36J7F.com.musicbravo.MusicBravo",
-                "paths": [ "*","/qq_conn/101879662/"]
+                "paths": [ "*","/qq_conn/101879662/*"]
             }
         ]
     }
